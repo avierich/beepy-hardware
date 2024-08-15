@@ -7114,7 +7114,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "GD25Q16xS"
+		(property "Value" "W25Q16JVSSIQ"
 			(at 41.8592 102.5652 0)
 			(effects
 				(font
@@ -7149,7 +7149,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C79074"
+		(property "LCSC" "C131025"
 			(at 41.8592 92.4052 0)
 			(effects
 				(font
